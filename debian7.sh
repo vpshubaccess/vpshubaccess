@@ -517,7 +517,7 @@ echo "--------------------------- Configuration Setup Server -------------------
 echo "                         Copyright HostingTermurah.net                          "
 echo "                        https://www.hostingtermurah.net                         "
 echo "               Created By Steven Indarto(fb.com/stevenindarto2)                 "
-echo "                                Modified by S - H - U - N                             "
+echo "                          Modified by S - H - U - N                             "
 echo "--------------------------------------------------------------------------------"
 echo ""  | tee -a log-install.txt
 echo "Server Information"  | tee -a log-install.txt

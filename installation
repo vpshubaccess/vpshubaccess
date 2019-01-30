@@ -547,8 +547,8 @@ echo " "
 echo "Installation has been completed!!"
 echo " "
 echo "--------------------------- Configuration Setup Server -------------------------"
-echo "                             Created By @agentorange                            "
-echo "                             Modified by S - H - U - N                          "
+echo "                                                                                "
+echo "                            Modified by S - H - U - N                           "
 echo "--------------------------------------------------------------------------------"
 echo ""  | tee -a log-install.txt
 echo "Server Information"  | tee -a log-install.txt
